@@ -29,7 +29,7 @@ You should prints the results of whether they are an all-star in an ``||logic:if
   #Repeat for rebounds and assists.
   #Change the code below so that it prints out whether you are an all star or not.
   if True:
-    pass
+    adventure.add_to_textlog("")
   else:
-    pass
+    adventure.add_to_textlog("")
 ```
