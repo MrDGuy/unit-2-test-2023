@@ -11,12 +11,11 @@ Using the ``||logic:if else||`` code if number1 is greater than number 2 display
 Else, display "Number 2 is greater than Number 1" with the ``||adventure:add text to textlog||`` code
 
 ```python
-  #If you only write this code you will not get any credit
-  #Reference code for tutorial
-  game.ask_for_number(None)
+  number1 = game.ask_for_number("Enter a number: ")
+  #Repeat for number2.
+  #Change the code below so that it prints out whether number1 is greater than number2 or number2 is greater than number1.
   if True:
-    pass
+    adventure.add_to_textlog("")
   else:
-    pass
-  adventure.add_to_textlog("")
+    adventure.add_to_textlog("")
 ```
