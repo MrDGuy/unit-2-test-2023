@@ -1,5 +1,5 @@
 {
-    "name": "All Star",
+    "name": "Unit 2 Test",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -11,7 +11,7 @@
         "README.md",
         "assets.json",
         "main.py",
-        "all-star.md"
+        "unit-2-test.md"
     ],
     "testFiles": [
         "test.ts"
